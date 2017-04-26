@@ -1156,6 +1156,8 @@
 //
 //#define ULTRA_LCD   // Character based
 //#define DOGLCD      // Full graphics display
+//#define ANET_KEYPAD_LCD
+//#define ANET_FULL_GRAPHICS_LCD
 
 //
 // SD CARD
@@ -1338,6 +1340,8 @@
 //
 //#define REPRAPWORLD_KEYPAD
 //#define REPRAPWORLD_KEYPAD_MOVE_STEP 1.0
+//#define ADC_KEYPAD
+//#define ADC_KEYPAD_DEBUG
 
 //
 // RigidBot Panel V1.0
